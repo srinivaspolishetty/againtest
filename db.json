@@ -1,0 +1,15 @@
+{
+  "familydetails": [
+    { "id": "1", "name": "Suresh", "nickname": "Dubai Suri", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "2", "name": "Bharathy", "nickname": "Bhanu", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "3", "name": "Srinivas", "nickname": "Tony", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "4", "name": "Swetha Rani", "nickname": "Rasi", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "5", "name": "Sreeyansh", "nickname": "Sree", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "6", "name": "Rakesh", "nickname": "Robby", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "7", "name": "Shweta", "nickname": "Swetha", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "8", "name": "Dhruvan", "nickname": "Dhru", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "9", "name": "Narsing", "nickname": "Narsing", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "10", "name": "Mamatha", "nickname": "Kutti", "sname": "Polishetty", "age": "60", "gender": "Male" },
+    { "id": "11", "name": "Akshith", "nickname": "Abhi", "sname": "Polishetty", "age": "60", "gender": "Male" }
+  ]
+}
